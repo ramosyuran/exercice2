@@ -4,14 +4,11 @@ h1{
   font-size: 3em;
 }
 
-#index{
-  float: right;
+ol{
+  text-align: right;
+  margin-right: 4em;
 }
 
-#index h2{
-  font-size: 2em;
-}
-
-#index a{
+a{
   color: blue;
 }
