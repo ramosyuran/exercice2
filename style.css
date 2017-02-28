@@ -13,13 +13,22 @@ a{
   color: blue;
 }
 
+ul{
+  list-style-type: none;
+}
+
 h3{
-font-size: 30px;
+font-size: 27px;
   font-style: italic;
 }
 
 span{
   font-style: italic;
-  font-size: 25px;
+  font-size: 20px;
   text-decoration: underline;
+}
+
+p{
+  font-size: 15px;
+  font-style: oblique;
 }
